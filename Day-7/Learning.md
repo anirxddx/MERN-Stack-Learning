@@ -16,30 +16,13 @@ Day 7: Variables and Data Types
    - *String:* Text data enclosed in quotes (e.g., "Hello").  
    - *Boolean:* True/False values (true, false).  
 
-2. *Type Examples:*  
-   - Example (Python):  
-     python
-     num = 42       # Integer
-     name = "Aniruddh" # String
-     isActive = True  # Boolean
-       
-
-*3. Basic Operations*  
+*2. Basic Operations*  
 - Arithmetic Operations: +, -, *, /.  
 - String Concatenation: Combining strings using +.  
 
 Hands-On Practice*  
-1. Swapping Two Numbers:  
-   python
-   a = 5
-   b = 10
-   a, b = b, a
-   print(a, b)  # Output: 10, 5
-
-	2.	Adding Two Numbers:
-
-let a = 5, b = 7;
-console.log(a + b); // Output: 12
+1. Swapping Two Numbers .
+2.  Adding Two Numbers.
 
 Reflection
 	•	Revised how to use variables and select the right data type for different tasks.
