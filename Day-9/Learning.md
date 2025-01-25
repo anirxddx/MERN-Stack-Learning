@@ -29,18 +29,7 @@ function square(num) {
 console.log(square(6));  // Output: 36
 
 Hands-On Practice
-	1.	Create a function to calculate the sum of numbers in a list:
-
-def sum_list(numbers):
-    total = 0
-    for num in numbers:
-        total += num
-    return total
-
-print(sum_list([1, 2, 3, 4]))  # Output: 10
-
-
-	2.	Create a function to check if a number is even:
+1. Create a function to check if a number is even:
 
 function isEven(num) {
     return num % 2 === 0;
