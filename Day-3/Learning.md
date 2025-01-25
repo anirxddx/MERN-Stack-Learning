@@ -20,8 +20,7 @@ Day 3: DNS Basics
 - *MX Record:* Specifies the mail server for a domain.  
 - *TXT Record:* Contains text information for domain verification or configuration.  
 
-*Hands-On Practice*  
-- Used nslookup to check DNS records for websites like google.com and github.com.  
+*Hands-On Practice*   
 - Explored online tools (e.g., DNS Checker) to view DNS propagation and record details.  
 
 *Reflection*  
