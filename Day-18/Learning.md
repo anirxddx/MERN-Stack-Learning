@@ -1,4 +1,4 @@
-# Day 16: HTML Basics  
+# Day 18: HTML Basics  
 
 ## *What I Learned*  
 
