@@ -1,0 +1,28 @@
+
+* {
+  transition: all 0.5s;
+}
+
+
+body {
+  height: 100vh;
+  margin: 0px;
+  display: grid;
+  place-content: center;
+}
+
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  transition: all 0.2s;
+}
+
+
+button:active {
+  background: black;
+  color: #fff;
+}
